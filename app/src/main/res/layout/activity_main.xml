@@ -18,13 +18,13 @@
 
         <TextView
             android:text="Light: "
-            android:textSize="20dp"
+            android:textSize="18dp"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content" />
 
         <TextView
             android:id="@+id/light"
-            android:textSize="20dp"
+            android:textSize="18dp"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content" />
     </LinearLayout>
@@ -43,13 +43,13 @@
 
             <TextView
                 android:text="Magnetic Field X: "
-                android:textSize="20dp"
+                android:textSize="18dp"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content" />
 
             <TextView
                 android:id="@+id/magnetic_field_x"
-                android:textSize="20dp"
+                android:textSize="18dp"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content" />
         </LinearLayout>
@@ -61,13 +61,13 @@
 
             <TextView
                 android:text="Magnetic Field Y: "
-                android:textSize="20dp"
+                android:textSize="18dp"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content" />
 
             <TextView
                 android:id="@+id/magnetic_field_y"
-                android:textSize="20dp"
+                android:textSize="18dp"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content" />
         </LinearLayout>
@@ -79,13 +79,13 @@
 
             <TextView
                 android:text="Magnetic Field Z: "
-                android:textSize="20dp"
+                android:textSize="18dp"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content" />
 
             <TextView
                 android:id="@+id/magnetic_field_z"
-                android:textSize="20dp"
+                android:textSize="18dp"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content" />
         </LinearLayout>
@@ -105,13 +105,13 @@
 
             <TextView
                 android:text="Accelerometer X: "
-                android:textSize="20dp"
+                android:textSize="18dp"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content" />
 
             <TextView
                 android:id="@+id/accelerometer_x"
-                android:textSize="20dp"
+                android:textSize="18dp"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content" />
         </LinearLayout>
@@ -123,7 +123,7 @@
 
             <TextView
                 android:text="Accelerometer Y: "
-                android:textSize="20dp"
+                android:textSize="18dp"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content" />
 
@@ -140,13 +140,13 @@
 
             <TextView
                 android:text="Accelerometer Z: "
-                android:textSize="20dp"
+                android:textSize="18dp"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content" />
 
             <TextView
                 android:id="@+id/accelerometer_z"
-                android:textSize="20dp"
+                android:textSize="18dp"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content" />
         </LinearLayout>
@@ -166,13 +166,13 @@
 
             <TextView
                 android:text="Linear Acceleration X: "
-                android:textSize="20dp"
+                android:textSize="18dp"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content" />
 
             <TextView
                 android:id="@+id/linear_acceleration_x"
-                android:textSize="20dp"
+                android:textSize="18dp"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content" />
         </LinearLayout>
@@ -184,13 +184,13 @@
 
             <TextView
                 android:text="Linear Acceleration Y: "
-                android:textSize="20dp"
+                android:textSize="18dp"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content" />
 
             <TextView
                 android:id="@+id/linear_acceleration_y"
-                android:textSize="20dp"
+                android:textSize="18dp"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content" />
         </LinearLayout>
@@ -202,13 +202,13 @@
 
             <TextView
                 android:text="Linear Acceleration Z: "
-                android:textSize="20dp"
+                android:textSize="18dp"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content" />
 
             <TextView
                 android:id="@+id/linear_acceleration_z"
-                android:textSize="20dp"
+                android:textSize="18dp"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content" />
         </LinearLayout>
